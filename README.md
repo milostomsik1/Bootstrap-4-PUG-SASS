@@ -1,8 +1,8 @@
-# Bootstrap 4 PUG SCSS template
+# Bootstrap 4 PUG SASS template
 
 Basic PUG structure with meta tags and Bootstrap JS and JQuery CDN.  
-Basic folder and file structure with linked scss and pug partials.  
-Gulp with pug to html, autoprefixer, scss to css, sass and js minifier and live browser reload.  
+Basic folder and file structure with linked sass and pug partials.  
+Gulp with pug to html, autoprefixer, sass to css, sass and js minifier and live browser reload.  
 
 
 Gulp packages:
